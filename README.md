@@ -1,7 +1,14 @@
 # Webs of Virtue
-Code and slides for the "Webs of Virtue: A computational study of how networks influence Moral Development Dynamics" Master Thesis.
 
-**Link**: https://scripties.uba.uva.nl/search?id=record_56698
+![Repo screenshot image](https://github.com/pabloralves/websofvirtue/blob/main/Screenshot.png?raw=true)
+
+Code and slides for the Master Thesis "*Webs of Virtue: A computational study of how networks influence Moral Development Dynamics*".
+
+**Manuscript link**: https://scripties.uba.uva.nl/search?id=record_56698
+
+**Slides**: [Presentation slides
+](https://github.com/pabloralves/websofvirtue/blob/main/Webs%20of%20Virtue%20(Presentation%20slides).pdf)
+
 
 ## Abstract
 Moral development is an interdisciplinary field studying how humans think, behave, and feel with regard to moral standards. One important aspect of this developmental process comprises moral dynamics, the phenomena through which moral behavior and attitudes change. In recent years, there has been a growing recognition of the need for integrative efforts bridging different subfields and incorporating group-level influences. Despite this, quantitative understanding of the moral development trajectories, dynamics, and outcomes at different levels of the population is currently lacking.
